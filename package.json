@@ -1,0 +1,9 @@
+{
+  "name": "samuelha801/samueltea",
+  "version": "1.0.0",
+  "description": "Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@samuelha801",
+  "repository": "https://github.com/samuelha801/samueltea.git",
+  "license": "ISC"
+}
